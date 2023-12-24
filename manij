@@ -1,1 +1,27 @@
- I am happy
+ git remote add origin https://github.com/aadinathtighare/tcs-mumbai-1.git
+  215  git remote -v
+  216  git push
+  217  git push origin main
+  218  git pull
+  219  git pull remote origin main
+  220  ll
+  221  git checkout main
+  222  git push
+  223  git add .
+  224  git commit -m "1"
+  225  git push origin main
+  226  git push origin main -f
+  227  git push -u origin main -f
+  228  git pull origin main
+  229  ll
+  230  git add .
+  231  git commit -m "1"
+  232  git remote -v
+  233  git push -u origin main -f
+  234  ll
+  235  nano file2
+  236  vim manij
+  237  ll
+  238  git add .
+  239  git commit -m "2"
+  240  git push -u origin mai
